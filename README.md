@@ -97,8 +97,12 @@ The demand for machine learning roles has surged in recent years, particularly i
 
 ## Insights and Recommendations
 
-- **Salary Benchmarking**: Companies can use this analysis to benchmark salaries based on experience level, company size, and geographical location to remain competitive.
-- **Recruitment and Forecasting**: The analysis highlights the demand for machine learning roles and the higher salaries they command, making them key focus areas for recruitment strategies.
+- **Salary Benchmarking**: Companies can leverage the trends in salary by experience level and company size to shape competitive salary offers. Executive and senior-level roles, particularly in larger companies, consistently command higher salaries, providing a benchmark for current employee compensation and future hires. Additionally, geographical analysis shows that salaries vary significantly by region, highlighting the importance of location-based benchmarking.
+Smaller companies tend to offer lower salaries compared to medium and large organizations, but they can compensate for this with other benefits like flexibility, faster career progression, or equity options. For small companies, this data helps benchmark salaries while exploring non-monetary incentives to attract talent. Employees at smaller firms may use this information to negotiate for benefits beyond salary, acknowledging that compensation might be lower but other perks can be significant.
+
+- **Recruitment and Forecasting**: For those starting in AI/ML careers, the data shows that Data Analyst is the most common entry-level position, likely due to its broader entry requirements. While salaries for entry-level roles are generally lower, there is still strong growth potential. Employees can use this to set realistic salary expectations at the start of their career, targeting roles like Data Analyst to gain industry experience. Companies hiring for entry-level positions should focus on providing competitive salaries and career development opportunities to attract emerging talent.
+For companies, the data highlights that executive and senior roles come with higher salaries. Additionally, Machine Learning roles—such as Head of Machine Learning, Machine Learning Manager, and Machine Learning Developer—rank among the highest-paid positions in 2024. Companies looking to hire for these roles should offer competitive salaries and additional incentives to attract top talent.
+
 
 ## Tableau Dashboard
 
