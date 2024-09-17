@@ -8,6 +8,7 @@ This project aims to analyze global salary trends for AI/ML professionals betwee
 
 - **Source**: The dataset used in this project is sourced from [Kaggle: AI/ML Salaries](https://www.kaggle.com/datasets/cedricaubin/ai-ml-salaries).
 - **Description**: The dataset includes salary data from 2020 to 2024, with over 10,000 records. It captures information such as job title, experience level, company size, salary in USD, work mode (on-site, hybrid, fully remote), and geographical details.
+- **World Countries JSON file** from Kaggle: https://www.kaggle.com/datasets/ktochylin/world-countries
   
 ### Data Limitations:
 - The dataset is heavily skewed toward full-time employees (99%) and the USA (over 8,000 entries), which may limit the generalizability of some findings.
