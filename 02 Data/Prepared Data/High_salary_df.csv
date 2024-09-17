@@ -1,0 +1,19 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2024,SE,FT,Analytics Engineer,720000,USD,720000,US,0,US,M
+2024,MI,FT,Machine Learning Scientist,720000,USD,720000,US,0,US,M
+2024,SE,FT,Data Scientist,720000,USD,720000,US,100,US,M
+2024,MI,FT,AI Architect,800000,USD,800000,CA,100,CA,M
+2024,EN,FT,Data Analyst,774000,USD,774000,MX,0,MX,M
+2024,MI,FT,Analytics Engineer,720000,USD,720000,US,0,US,M
+2024,SE,FT,Data Scientist,720000,USD,720000,US,0,US,M
+2024,SE,FT,Analytics Engineer,750000,USD,750000,US,0,US,M
+2024,MI,FT,Machine Learning Scientist,750000,USD,750000,US,0,US,M
+2024,SE,FT,Data Analyst,750000,USD,750000,US,0,US,M
+2024,MI,FT,Research Engineer,720000,USD,720000,US,0,US,M
+2024,MI,FT,Research Scientist,720000,USD,720000,US,0,US,M
+2023,MI,FT,Machine Learning Scientist,750000,USD,750000,US,0,US,M
+2023,MI,FT,Machine Learning Engineer,750000,USD,750000,US,0,US,M
+2023,SE,FT,Analytics Engineer,700000,USD,700000,US,100,US,M
+2023,MI,FT,Analytics Engineer,700000,USD,700000,US,100,US,M
+2023,MI,FT,Data Engineer,750000,USD,750000,US,0,US,M
+2023,SE,FT,Data Scientist,750000,USD,750000,US,0,US,M
